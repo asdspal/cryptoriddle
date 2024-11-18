@@ -1,6 +1,6 @@
 # CryptoRiddle
 
-CryptoRiddle is an interactive blockchain-themed word guessing game built as a Farcaster Frame. It leverages the Onchain AI Oracle (OAO) to generate puzzles, hints, and explanations, providing an engaging and educational experience for blockchain enthusiasts.
+CryptoRiddle is an interactive blockchain-themed word guessing game built as a Farcaster Frame. It leverages the Onchain AI Oracle (OAO) to generate puzzles, hints, and explanations, providing an engaging and educational experience for blockchain enthusiasts.  
 
 ## Game Mechanics
 
